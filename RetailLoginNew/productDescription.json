@@ -1,0 +1,1045 @@
+{
+    "Apple": [
+              {
+              "Description": "iphone 1 Specification",
+              "ImageName": "iphone1.jpg",
+              "Cost": "10000 Rs"
+              },
+              {
+              "Description": "iphone 2 Specification",
+              "ImageName": "iphone2.jpg",
+              "Cost": "12000 Rs"
+              },
+              {
+              "Description": "iphone 3 Specification",
+              "ImageName": "iphone3.jpg",
+              "Cost": "13000 Rs"
+              },
+              {
+              "Description": "iphone 4 Specification",
+              "ImageName": "iphone4.jpg",
+              "Cost": "14000 Rs"
+              },
+              {
+              "Description": "iphone 5 Specification",
+              "ImageName": "iphone5.jpeg",
+              "Cost": "14430 Rs"
+              },
+              {
+              "Description": "iphone 6 Specification",
+              "ImageName": "iphone6.jpeg",
+              "Cost": "10000 Rs"
+              },
+              {
+              "Description": "iphone 7 Specification",
+              "ImageName": "iphone7.jpeg",
+              "Cost": "10000 Rs"
+              },
+              {
+              "Description": "iphone 8 Specification",
+              "ImageName": "iphone8.jpeg",
+              "Cost": "10000 Rs"
+              },
+              {
+              "Description": "iphone 9 Specification",
+              "ImageName": "iphone9.jpeg",
+              "Cost": "10000 Rs"
+              },
+              {
+              "Description": "iphone 10 Specification",
+              "ImageName": "iphone4.jpg",
+              "Cost": "10000 Rs"
+              },
+              {
+              "Description": "iphone 11 Specification",
+              "ImageName": "iphone5.jpeg",
+              "Cost": "10000 Rs"
+              },
+              {
+              "Description": "iphone 12 Specification",
+              "ImageName": "iphone6.jpeg",
+              "Cost": "10000 Rs"
+              }
+              
+              
+              ],
+    "Samsung" : [
+                 {
+                 "Description": "samsung1",
+                 "ImageName": "Samsung1.jpg",
+                 "Cost": "13000 Rs"
+                 },
+                 {
+                 "Description": "samsung2",
+                 "ImageName": "Samsung2.jpg",
+                 "Cost": "10600 Rs"
+                 },
+                 {
+                 "Description": "samsung3",
+                 "ImageName": "Samsung3.jpg",
+                 "Cost": "10020 Rs"
+                 },
+                 {
+                 "Description": "samsung4",
+                 "ImageName": "Samsung4.jpg",
+                 "Cost": "13000 Rs"
+                 },
+                 {
+                 "Description": "samsung5",
+                 "ImageName": "Samsung5.jpeg",
+                 "Cost": "10400 Rs"
+                 },
+                 {
+                 "Description": "samsung6",
+                 "ImageName": "Samsung6.jpeg",
+                 "Cost": "10100 Rs"
+                 },
+                 {
+                 "Description": "samsung7",
+                 "ImageName": "Samsung7.jpeg",
+                 "Cost": "10080 Rs"
+                 },
+                 {
+                 "Description": "samsung8",
+                 "ImageName": "Samsung8.jpeg",
+                 "Cost": "12100 Rs"
+                 },
+                 {
+                 "Description": "samsung9",
+                 "ImageName": "Samsung9.jpeg",
+                 "Cost": "14500 Rs"
+                 },
+                 {
+                 "Description": "samsung10",
+                 "ImageName": "Samsung4.jpg",
+                 "Cost": "10760 Rs"
+                 },
+                 {
+                 "Description": "samsung11",
+                 "ImageName": "Samsung5.jpeg",
+                 "Cost": "10450 Rs"
+                 },
+                 {
+                 "Description": "samsung12",
+                 "ImageName": "Samsung6.jpeg",
+                 "Cost": "10000 Rs"
+                 }
+                 
+                 
+                 ],
+    
+    "Blackberry" : [
+                    {
+                    "Description": "BlackBerry 1 Specification",
+                    "ImageName": "BB1.jpg",
+                    "Cost": "10000 Rs"
+                    },
+                    {
+                    "Description": "BlackBerry 2 Specification",
+                    "ImageName": "BB2.jpg",
+                    "Cost": "100978 Rs"
+                    },
+                    {
+                    "Description": "BlackBerry 3 Specification",
+                    "ImageName": "BB3.jpg",
+                    "Cost": "10876 Rs"
+                    },
+                    {
+                    "Description": "BlackBerry 4 Specification",
+                    "ImageName": "BB4.png",
+                    "Cost": "10000 Rs"
+                    },
+                    {
+                    "Description": "BlackBerry 5 Specification",
+                    "ImageName": "BB5.jpg",
+                    "Cost": "17800 Rs"
+                    },
+                    {
+                    "Description": "BlackBerry 6 Specification",
+                    "ImageName": "BB6.jpeg",
+                    "Cost": "10000 Rs"
+                    },
+                    {
+                    "Description": "BlackBerry 7 Specification",
+                    "ImageName": "BB7.jpeg",
+                    "Cost": "10870 Rs"
+                    },
+                    {
+                    "Description": "BlackBerry 8 Specification",
+                    "ImageName": "BB8.jpeg",
+                    "Cost": "10320 Rs"
+                    },
+                    {
+                    "Description": "BlackBerry 9 Specification",
+                    "ImageName": "BB9.jpeg",
+                    "Cost": "10780 Rs"
+                    },
+                    {
+                    "Description": "BlackBerry 10 Specification",
+                    "ImageName": "BB2.jpg",
+                    "Cost": "10000 Rs"
+                    },
+                    {
+                    "Description": "BlackBerry 11 Specification",
+                    "ImageName": "BB3.jpg",
+                    "Cost": "10120 Rs"
+                    },
+                    {
+                    "Description": "BlackBerry 12 Specification",
+                    "ImageName": "BB4.png",
+                    "Cost": "10000 Rs"
+                    }
+                    
+                    
+                    ],
+    "Motorola" : [
+                  {
+                  "Description": "Motorola 1 Specification",
+                  "ImageName": "moto1.jpg",
+                  "Cost": "10000 Rs"
+                  },
+                  {
+                  "Description": "Motorola 2 Specification",
+                  "ImageName": "moto2.jpg",
+                  "Cost": "10000 Rs"
+                  },
+                  {
+                  "Description": "Motorola 3 Specification",
+                  "ImageName": "moto3.jpg",
+                  "Cost": "10000 Rs"
+                  },
+                  {
+                  "Description": "Motorola 4 Specification",
+                  "ImageName": "moto4.jpg",
+                  "Cost": "10000 Rs"
+                  },
+                  {
+                  "Description": "Motorola 5 Specification",
+                  "ImageName": "moto5.jpeg",
+                  "Cost": "10000 Rs"
+                  },
+                  {
+                  "Description": "Motorola 6 Specification",
+                  "ImageName": "moto6.jpeg",
+                  "Cost": "10000 Rs"
+                  },
+                  {
+                  "Description": "Motorola 7 Specification",
+                  "ImageName": "moto7.jpeg",
+                  "Cost": "10000 Rs"
+                  },
+                  {
+                  "Description": "Motorola 8 Specification",
+                  "ImageName": "moto8.jpeg",
+                  "Cost": "10000 Rs"
+                  },
+                  {
+                  "Description": "Motorola 9 Specification",
+                  "ImageName": "moto9.jpeg",
+                  "Cost": "10000 Rs"
+                  },
+                  {
+                  "Description": "Motorola 10 Specification",
+                  "ImageName": "moto2.jpg",
+                  "Cost": "10000 Rs"
+                  },
+                  {
+                  "Description": "Motorola 11 Specification",
+                  "ImageName": "moto3.jpg",
+                  "Cost": "10000 Rs"
+                  },
+                  {
+                  "Description": "Motorola 12 Specification",
+                  "ImageName": "moto4.jpg",
+                  "Cost": "10000 Rs"
+                  }
+                  
+                  
+                  ],
+    
+    
+    "Air Conditioner" : [
+                         {
+                         "Description": "Air Conditioner 1 Specification",
+                         "ImageName": "ac1.jpeg",
+                         "Cost": "10000 Rs"
+                         },
+                         {
+                         "Description": "Air Conditioner 2 Specification",
+                         "ImageName": "ac2.jpeg",
+                         "Cost": "10000 Rs"
+                         },
+                         {
+                         "Description": "Air Conditioner 3 Specification",
+                         "ImageName": "ac3.jpeg",
+                         "Cost": "10000 Rs"
+                         },
+                         {
+                         "Description": "Air Conditioner 4 Specification",
+                         "ImageName": "ac4.jpeg",
+                         "Cost": "10000 Rs"
+                         },
+                         {
+                         "Description": "Air Conditioner 5 Specification",
+                         "ImageName": "ac5.jpeg",
+                         "Cost": "10000 Rs"
+                         },
+                         {
+                         "Description": "Air Conditioner 6 Specification",
+                         "ImageName": "ac6.jpeg",
+                         "Cost": "10000 Rs"
+                         },
+                         {
+                         "Description": "Motorola 7 Specification",
+                         "ImageName": "ac7.jpeg",
+                         "Cost": "10000 Rs"
+                         },
+                         {
+                         "Description": "Air Conditioner 8 Specification",
+                         "ImageName": "ac8.jpeg",
+                         "Cost": "10000 Rs"
+                         },
+                         {
+                         "Description": "Air Conditioner 9 Specification",
+                         "ImageName": "ac9.jpeg",
+                         "Cost": "10000 Rs"
+                         },
+                         {
+                         "Description": "Motorola 10 Specification",
+                         "ImageName": "ac4.jpeg",
+                         "Cost": "10000 Rs"
+                         },
+                         {
+                         "Description": "Motorola 11 Specification",
+                         "ImageName": "ac5.jpeg",
+                         "Cost": "10000 Rs"
+                         },
+                         {
+                         "Description": "Air Conditioner 12 Specification",
+                         "ImageName": "ac6.jpeg",
+                         "Cost": "10000 Rs"
+                         }
+                         
+                         
+                         ],
+    
+    "Television" : [
+                    {
+                    "Description": "Television 1 Specification",
+                    "ImageName": "tv1.jpeg",
+                    "Cost": "10000 Rs"
+                    },
+                    {
+                    "Description": "Television 2 Specification",
+                    "ImageName": "tv2.jpeg",
+                    "Cost": "10000 Rs"
+                    },
+                    {
+                    "Description": "Television 3 Specification",
+                    "ImageName": "tv3.jpeg",
+                    "Cost": "10000 Rs"
+                    },
+                    {
+                    "Description": "Television 4 Specification",
+                    "ImageName": "tv4.jpeg",
+                    "Cost": "10000 Rs"
+                    },
+                    {
+                    "Description": "Television 5 Specification",
+                    "ImageName": "tv5.jpeg",
+                    "Cost": "10000 Rs"
+                    },
+                    {
+                    "Description": "Television 6 Specification",
+                    "ImageName": "tv6.jpeg",
+                    "Cost": "10000 Rs"
+                    },
+                    {
+                    "Description": "Television 7 Specification",
+                    "ImageName": "tv7.jpeg",
+                    "Cost": "10000 Rs"
+                    },
+                    {
+                    "Description": "Television 8 Specification",
+                    "ImageName": "tv8.jpeg",
+                    "Cost": "10000 Rs"
+                    },
+                    {
+                    "Description": "Television 9 Specification",
+                    "ImageName": "tv9.jpeg",
+                    "Cost": "10000 Rs"
+                    },
+                    {
+                    "Description": "Television 10 Specification",
+                    "ImageName": "tv4.jpeg",
+                    "Cost": "10000 Rs"
+                    },
+                    {
+                    "Description": "Television 11 Specification",
+                    "ImageName": "tv5.jpeg",
+                    "Cost": "10000 Rs"
+                    },
+                    {
+                    "Description": "Television 12 Specification",
+                    "ImageName": "tv6.jpeg"
+                    }
+                    
+                    
+                    ],
+    
+    "Refrigerator" : [
+                      {
+                      "Description": "Refrigerator 1 Specification",
+                      "ImageName": "ref1.jpeg",
+                      "Cost": "10000 Rs"
+                      },
+                      {
+                      "Description": "Refrigerator 2 Specification",
+                      "ImageName": "ref2.jpeg",
+                      "Cost": "10000 Rs"
+                      },
+                      {
+                      "Description": "Refrigerator 3 Specification",
+                      "ImageName": "ref3.jpeg",
+                      "Cost": "10000 Rs"
+                      },
+                      {
+                      "Description": "Refrigerator 4 Specification",
+                      "ImageName": "ref4.jpeg",
+                      "Cost": "10000 Rs"
+                      },
+                      {
+                      "Description": "Refrigerator5 Specification",
+                      "ImageName": "ref5.jpeg",
+                      "Cost": "10000 Rs"
+                      },
+                      {
+                      "Description": "Refrigerator 6 Specification",
+                      "ImageName": "ref6.jpeg",
+                      "Cost": "10000 Rs"
+                      },
+                      {
+                      "Description": "Refrigerator 7 Specification",
+                      "ImageName": "ref7.jpeg",
+                      "Cost": "10000 Rs"
+                      },
+                      {
+                      "Description": "Refrigerator 8 Specification",
+                      "ImageName": "ref8.jpeg",
+                      "Cost": "10000 Rs"
+                      },
+                      {
+                      "Description": "Refrigerator 9 Specification",
+                      "ImageName": "ref9.jpeg",
+                      "Cost": "10000 Rs"
+                      },
+                      {
+                      "Description": "Refrigerator 10 Specification",
+                      "ImageName": "ref4.jpeg",
+                      "Cost": "10000 Rs"
+                      },
+                      {
+                      "Description": "Refrigerator 11 Specification",
+                      "ImageName": "ref5.jpeg",
+                      "Cost": "10000 Rs"
+                      },
+                      {
+                      "Description": "Refrigerator 12 Specification",
+                      "ImageName": "ref6.jpeg",
+                      "Cost": "10000 Rs"
+                      }
+                      
+                      
+                      ],
+    
+    "Men" : [
+             {
+             "Description": "Men 1 Specification",
+             "ImageName": "men1.jpeg",
+             "Cost": "10000 Rs"
+             },
+             {
+             "Description": "Men 2 Specification",
+             "ImageName": "men2.jpeg",
+             "Cost": "10000 Rs"
+             },
+             {
+             "Description": "Men 3 Specification",
+             "ImageName": "men3.jpeg",
+             "Cost": "10000 Rs"
+             },
+             {
+             "Description": "Men 4 Specification",
+             "ImageName": "men4.jpeg",
+             "Cost": "10000 Rs"
+             },
+             {
+             "Description": "Men 5 Specification",
+             "ImageName": "men5.jpeg",
+             "Cost": "10000 Rs"
+             },
+             {
+             "Description": "Men 6 Specification",
+             "ImageName": "men6.jpeg",
+             "Cost": "10000 Rs"
+             },
+             {
+             "Description": "Men 7 Specification",
+             "ImageName": "men7.jpeg",
+             "Cost": "10000 Rs"
+             },
+             {
+             "Description": "Men 8 Specification",
+             "ImageName": "men8.jpeg",
+             "Cost": "10000 Rs"
+             },
+             {
+             "Description": "Men 9 Specification",
+             "ImageName": "men9.jpeg",
+             "Cost": "10000 Rs"
+             },
+             {
+             "Description": "Men 10 Specification",
+             "ImageName": "men4.jpeg",
+             "Cost": "10000 Rs"
+             },
+             {
+             "Description": "Men 11 Specification",
+             "ImageName": "men5.jpeg",
+             "Cost": "10000 Rs"
+             },
+             {
+             "Description": "Men 12 Specification",
+             "ImageName": "men6.jpeg",
+             "Cost": "10000 Rs"
+             }
+             
+             
+             ],
+    
+    
+    "Women" : [
+               {
+               "Description": "Women 1 Specification",
+               "ImageName": "women1.jpeg",
+               "Cost": "10000 Rs"
+               },
+               {
+               "Description": "Women 2 Specification",
+               "ImageName": "women2.jpeg",
+               "Cost": "10000 Rs"
+               },
+               {
+               "Description": "Women 3 Specification",
+               "ImageName": "women3.jpeg",
+               "Cost": "10000 Rs"
+               },
+               {
+               "Description": "Women 4 Specification",
+               "ImageName": "women4.jpeg",
+               "Cost": "10000 Rs"
+               },
+               {
+               "Description": "Women 5 Specification",
+               "ImageName": "women5.jpeg",
+               "Cost": "10000 Rs"
+               },
+               {
+               "Description": "Women 6 Specification",
+               "ImageName": "women6.jpeg",
+               "Cost": "10000 Rs"
+               },
+               {
+               "Description": "Women 7 Specification",
+               "ImageName": "women7.jpeg",
+               "Cost": "10000 Rs"
+               },
+               {
+               "Description": "Women 8 Specification",
+               "ImageName": "women8.jpeg",
+               "Cost": "10000 Rs"
+               },
+               {
+               "Description": "Women 9 Specification",
+               "ImageName": "women9.jpeg",
+               "Cost": "10000 Rs"
+               },
+               {
+               "Description": "Women 10 Specification",
+               "ImageName": "women4.jpeg",
+               "Cost": "10000 Rs"
+               },
+               {
+               "Description": "Women 11 Specification",
+               "ImageName": "women5.jpeg",
+               "Cost": "10000 Rs"
+               },
+               {
+               "Description": "Women 12 Specification",
+               "ImageName": "women6.jpeg",
+               "Cost": "10000 Rs"
+               }
+               
+               
+               ],
+    
+    
+    "Kids" : [
+              {
+              "Description": "Kids 1 Specification",
+              "ImageName": "kids1.jpeg",
+              "Cost": "10000 Rs"
+              },
+              {
+              "Description": "Kids 2 Specification",
+              "ImageName": "kids2.jpeg",
+              "Cost": "10000 Rs"
+              },
+              {
+              "Description": "Kids 3 Specification",
+              "ImageName": "kids3.jpeg",
+              "Cost": "10000 Rs"
+              },
+              {
+              "Description": "Kids 4 Specification",
+              "ImageName": "kids4.jpeg",
+              "Cost": "10000 Rs"
+              },
+              {
+              "Description": "Kids 5 Specification",
+              "ImageName": "kids5.jpeg",
+              "Cost": "10000 Rs"
+              },
+              {
+              "Description": "Kids 6 Specification",
+              "ImageName": "kids6.jpeg",
+              "Cost": "10000 Rs"
+              },
+              {
+              "Description": "Kids 7 Specification",
+              "ImageName": "kids7.jpeg",
+              "Cost": "10000 Rs"
+              },
+              {
+              "Description": "Kids 8 Specification",
+              "ImageName": "kids8.jpeg",
+              "Cost": "10000 Rs"
+              },
+              {
+              "Description": "Kids 9 Specification",
+              "ImageName": "kids9.jpeg",
+              "Cost": "10000 Rs"
+              },
+              {
+              "Description": "Kids 10 Specification",
+              "ImageName": "kids4.jpeg",
+              "Cost": "10000 Rs"
+              },
+              {
+              "Description": "Kids 11 Specification",
+              "ImageName": "kids5.jpeg",
+              "Cost": "10000 Rs"
+              },
+              {
+              "Description": "Kids 12 Specification",
+              "ImageName": "kids6.jpeg",
+              "Cost": "10000 Rs"
+              }
+              
+              
+              ],
+    
+    
+    "Sports Wear" : [
+                     {
+                     "Description": "Sports Wear 1 Specification",
+                     "ImageName": "sports1.jpg",
+                     "Cost": "10000 Rs"
+                     },
+                     {
+                     "Description": "Sports Wear 2 Specification",
+                     "ImageName": "sports2.jpg",
+                     "Cost": "10000 Rs"
+                     },
+                     {
+                     "Description": "Sports Wear 3 Specification",
+                     "ImageName": "sports3.jpg",
+                     "Cost": "10000 Rs"
+                     },
+                     {
+                     "Description": "Sports Wear 4 Specification",
+                     "ImageName": "sports4.jpg",
+                     "Cost": "10000 Rs"
+                     },
+                     {
+                     "Description": "Sports Wear 5 Specification",
+                     "ImageName": "sports5.jpg",
+                     "Cost": "10000 Rs"
+                     },
+                     {
+                     "Description": "Sports Wear 6 Specification",
+                     "ImageName": "sports6.jpg",
+                     "Cost": "10000 Rs"
+                     },
+                     {
+                     "Description": "Sports Wear 7 Specification",
+                     "ImageName": "sports7.jpg",
+                     "Cost": "10000 Rs"
+                     },
+                     {
+                     "Description": "Sports Wear 8 Specification",
+                     "ImageName": "sports1.jpg",
+                     "Cost": "10000 Rs"
+                     },
+                     {
+                     "Description": "Sports Wear 9 Specification",
+                     "ImageName": "sports1.jpg",
+                     "Cost": "10000 Rs"
+                     },
+                     {
+                     "Description": "Sports Wear 10 Specification",
+                     "ImageName": "sports9.jpg",
+                     "Cost": "10000 Rs"
+                     },
+                     {
+                     "Description": "Sports Wear 11 Specification",
+                     "ImageName": "sports4.jpg",
+                     "Cost": "10000 Rs"
+                     },
+                     {
+                     "Description": "Sports Wear 12 Specification",
+                     "ImageName": "sports5.jpg",
+                     "Cost": "10000 Rs"
+                     }
+                     
+                     
+                     ],
+    
+    
+    "Sofa" : [
+              {
+              "Description": "Sofa 1 Specification",
+              "ImageName": "sofa1.jpg",
+              "Cost": "10000 Rs"
+              },
+              {
+              "Description": "Sofa 2 Specification",
+              "ImageName": "sofa2.jpg",
+              "Cost": "10000 Rs"
+              },
+              {
+              "Description": "Sofa 3 Specification",
+              "ImageName": "sofa3.jpg",
+              "Cost": "10000 Rs"
+              },
+              {
+              "Description": "Sofa 4 Specification",
+              "ImageName": "sofa4.jpg",
+              "Cost": "10000 Rs"
+              },
+              {
+              "Description": "Sofa 5 Specification",
+              "ImageName": "sofa5.jpg",
+              "Cost": "10000 Rs"
+              },
+              {
+              "Description": "Sofa 6 Specification",
+              "ImageName": "sofa6.jpg",
+              "Cost": "10000 Rs"
+              },
+              {
+              "Description": "Sofa 7 Specification",
+              "ImageName": "sofa7.jpg",
+              "Cost": "10000 Rs"
+              },
+              {
+              "Description": "Sofa 8 Specification",
+              "ImageName": "sofa8.jpg",
+              "Cost": "10000 Rs"
+              },
+              {
+              "Description": "Sofa 9 Specification",
+              "ImageName": "sofa9.jpg",
+              "Cost": "10000 Rs"
+              },
+              {
+              "Description": "Sofa 10 Specification",
+              "ImageName": "sofa4.jpg",
+              "Cost": "10000 Rs"
+              },
+              {
+              "Description": "Sofa 11 Specification",
+              "ImageName": "sofa5.jpg",
+              "Cost": "10000 Rs"
+              },
+              {
+              "Description": "Sofa 12 Specification",
+              "ImageName": "sofa6.jpg",
+              "Cost": "10000 Rs"
+              }
+              
+              
+              ],
+    
+    "Table" : [
+               {
+               "Description": "Sofa 1 Specification",
+               "ImageName": "table1.jpg",
+               "Cost": "10000 Rs"
+               },
+               {
+               "Description": "Sofa 2 Specification",
+               "ImageName": "table2.jpg",
+               "Cost": "10000 Rs"
+               },
+               {
+               "Description": "Sofa 3 Specification",
+               "ImageName": "table3.jpg",
+               "Cost": "10000 Rs"
+               },
+               {
+               "Description": "Sofa 4 Specification",
+               "ImageName": "table4.jpg",
+               "Cost": "10000 Rs"
+               },
+               {
+               "Description": "Sofa 5 Specification",
+               "ImageName": "table5.jpg",
+               "Cost": "10000 Rs"
+               },
+               {
+               "Description": "Sofa 6 Specification",
+               "ImageName": "table6.jpg",
+               "Cost": "10000 Rs"
+               },
+               {
+               "Description": "Sofa 7 Specification",
+               "ImageName": "table7.jpg",
+               "Cost": "10000 Rs"
+               },
+               {
+               "Description": "Sofa 8 Specification",
+               "ImageName": "table8.jpg",
+               "Cost": "10000 Rs"
+               },
+               {
+               "Description": "Sofa 9 Specification",
+               "ImageName": "table9.jpg",
+               "Cost": "10000 Rs"
+               },
+               {
+               "Description": "Sofa 10 Specification",
+               "ImageName": "table4.jpg",
+               "Cost": "10000 Rs"
+               },
+               {
+               "Description": "Sofa 11 Specification",
+               "ImageName": "table5.jpg",
+               "Cost": "10000 Rs"
+               },
+               {
+               "Description": "Sofa 12 Specification",
+               "ImageName": "table6.jpg",
+               "Cost": "10000 Rs"
+               }
+               
+               
+               ],
+    
+    
+    "Bed" : [
+             {
+             "Description": "Bed 1 Specification",
+             "ImageName": "bedimage1.jpg",
+             "Cost": "10000 Rs"
+             },
+             {
+             "Description": "Bed 2 Specification",
+             "ImageName": "bedimage2.jpg",
+             "Cost": "10000 Rs"
+             },
+             {
+             "Description": "Bed 3 Specification",
+             "ImageName": "bedimage3.jpg",
+             "Cost": "10000 Rs"
+             },
+             {
+             "Description": "Bed 4 Specification",
+             "ImageName": "bedimage4.jpg",
+             "Cost": "10000 Rs"
+             },
+             {
+             "Description": "Bed 5 Specification",
+             "ImageName": "bedimage5.jpg",
+             "Cost": "10000 Rs"
+             },
+             {
+             "Description": "Bed 6 Specification",
+             "ImageName": "bedimage6.jpg",
+             "Cost": "10000 Rs"
+             },
+             {
+             "Description": "Bed 7 Specification",
+             "ImageName": "bedimage7.jpg",
+             "Cost": "10000 Rs"
+             },
+             {
+             "Description": "Bed 8 Specification",
+             "ImageName": "bedimage8.jpg",
+             "Cost": "10000 Rs"
+             },
+             {
+             "Description": "Sofa 9 Specification",
+             "ImageName": "bedimage9.jpg",
+             "Cost": "10000 Rs"
+             },
+             {
+             "Description": "Bed 10 Specification",
+             "ImageName": "bedimage4.jpg",
+             "Cost": "10000 Rs"
+             },
+             {
+             "Description": "Bed 11 Specification",
+             "ImageName": "bedimage5.jpg",
+             "Cost": "10000 Rs"
+             },
+             {
+             "Description": "Bed 12 Specification",
+             "ImageName": "bedimage6.jpg",
+             "Cost": "10000 Rs"
+             }
+             
+             
+             ],
+    
+    "Microwave" : [
+                 {
+                 "Description": "Microwave 1 Specification",
+                 "ImageName": "micro1.jpg",
+                 "Cost": "10000 Rs"
+                 },
+                 {
+                 "Description": "Microwave 2 Specification",
+                 "ImageName": "micro2.jpg",
+                 "Cost": "10000 Rs"
+                 },
+                 {
+                 "Description": "Microwave 3 Specification",
+                 "ImageName": "micro3.jpg",
+                 "Cost": "10000 Rs"
+                 },
+                 {
+                 "Description": "Microwave 4 Specification",
+                 "ImageName": "micro4.jpg",
+                 "Cost": "10000 Rs"
+                 },
+                 {
+                 "Description": "Microwave 5 Specification",
+                 "ImageName": "micro5.jpg",
+                 "Cost": "10000 Rs"
+                 },
+                 {
+                 "Description": "Microwave 6 Specification",
+                 "ImageName": "micro6.jpg",
+                 "Cost": "10000 Rs"
+                 },
+                 {
+                 "Description": "Microwave 7 Specification",
+                 "ImageName": "micro7.jpg",
+                 "Cost": "10000 Rs"
+                 },
+                 {
+                 "Description": "Microwave 8 Specification",
+                 "ImageName": "micro8.jpg",
+                 "Cost": "10000 Rs"
+                 },
+                 {
+                 "Description": "Microwave 9 Specification",
+                 "ImageName": "micro9.jpg",
+                 "Cost": "10000 Rs"
+                 },
+                 {
+                 "Description": "Microwave 10 Specification",
+                 "ImageName": "micro4.jpg",
+                 "Cost": "10000 Rs"
+                 },
+                 {
+                 "Description": "Microwave 11 Specification",
+                 "ImageName": "micro5.jpg",
+                 "Cost": "10000 Rs"
+                 },
+                 {
+                 "Description": "Microwave 12 Specification",
+                 "ImageName": "micro6.jpg",
+                 "Cost": "10000 Rs"
+                 }
+                 
+                 
+                 ],
+    "Almirah" : [
+                 {
+                 "Description": "Almirah 1 Specification",
+                 "ImageName": "almir1.jpg",
+                 "Cost": "10000 Rs"
+                 },
+                 {
+                 "Description": "Almirah 2 Specification",
+                 "ImageName": "almir2.jpg",
+                 "Cost": "10000 Rs"
+                 },
+                 {
+                 "Description": "Almirah 3 Specification",
+                 "ImageName": "almir3.jpg",
+                 "Cost": "10000 Rs"
+                 },
+                 {
+                 "Description": "Almirah 4 Specification",
+                 "ImageName": "almir4.jpg",
+                 "Cost": "10000 Rs"
+                 },
+                 {
+                 "Description": "Almirah 5 Specification",
+                 "ImageName": "almire5.jpg",
+                 "Cost": "10000 Rs"
+                 },
+                 {
+                 "Description": "Almirah 6 Specification",
+                 "ImageName": "almir6.jpg",
+                 "Cost": "10000 Rs"
+                 },
+                 {
+                 "Description": "Almirah 7 Specification",
+                 "ImageName": "almir7.jpg",
+                 "Cost": "10000 Rs"
+                 },
+                 {
+                 "Description": "Almirah 8 Specification",
+                 "ImageName": "almir8.jpg",
+                 "Cost": "10000 Rs"
+                 },
+                 {
+                 "Description": "Almirah 9 Specification",
+                 "ImageName": "almir9.jpg",
+                 "Cost": "10000 Rs"
+                 },
+                 {
+                 "Description": "Almirah 10 Specification",
+                 "ImageName": "almir4.jpg",
+                 "Cost": "10000 Rs"
+                 },
+                 {
+                 "Description": "Almirah 11 Specification",
+                 "ImageName": "almir5.jpg",
+                 "Cost": "10000 Rs"
+                 },
+                 {
+                 "Description": "Almirah 12 Specification",
+                 "ImageName": "almir6.jpg",
+                 "Cost": "10000 Rs"
+                 }
+                 
+                 
+                 ]
+    
+    
+}

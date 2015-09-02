@@ -1,0 +1,123 @@
+{
+    "APPLE": [
+              {
+              "MODEL": "iPHONE 6",
+              "OPERATING SYSTEM": "IOS",
+              "PRICE": "Rs. 54,185.00",
+              "COLOR": "WHITE",
+              "STOCK": "4"
+              },
+              {
+              "MODEL": "iPHONE 5S",
+              "OPERATING SYSTEM": "IOS",
+              "PRICE": "Rs. 35,929.00",
+              "COLOR": "GOLD",
+              "STOCK": "4"
+              },
+              {
+              "MODEL": "iPHONE 5C",
+              "OPERATING SYSTEM": "IOS",
+              "PRICE": "Rs. 19,990.00",
+              "COLOR": "WHITE",
+              "STOCK": "4"
+              },
+              {
+              "MODEL": "iPHONE 4S",
+              "OPERATING SYSTEM": "IOS",
+              "PRICE": "Rs. 16,999.00",
+              "COLOR": "BLACK",
+              "STOCK": "4"
+              }
+              ],
+    "SAMSUNG": [
+                {
+                "MODEL": "PRE-BOOK SAMSUNG",
+                "OPERATING SYSTEM": "ANDROID V5.0.2 LOLLIPOP",
+                "PRICE": "Rs. 42,499.00",
+                "COLOR": "WHITE",
+                "STOCK": "4"
+                },
+                {
+                "MODEL": "SAMSUNG GALAXY S6",
+                "OPERATING SYSTEM": "ANDROID V5.0.2 LOLLIPOP",
+                "PRICE": "Rs. 35,929.00",
+                "COLOR": "GOLD",
+                "STOCK": "4"
+                },
+                {
+                "MODEL": "SAMSUNG GALAXY S5",
+                "OPERATING SYSTEM": "ANDROID V5.0.2 LOLLIPOP",
+                "PRICE": "Rs. 29,990.00",
+                "COLOR": "WHITE",
+                "STOCK": "4"
+                },
+                {
+                "MODEL": "SAMSUNG GALAXY S4",
+                "OPERATING SYSTEM": "ANDROID V5.0.2 LOLLIPOP",
+                "PRICE": "Rs. 17,999.00",
+                "COLOR": "BLACK",
+                "STOCK": "4"
+                }
+                ],
+    "MOTOROLA": [
+                 {
+                 "MODEL": "MOTO G 1 GEN",
+                 "OPERATING SYSTEM": "ANDROID V5.0.2 LOLLIPOP",
+                 "PRICE": "Rs. 13,889.00",
+                 "COLOR": "BLACK",
+                 "STOCK": "4"
+                 },
+                 {
+                 "MODEL": "MOTO G 2 GEN",
+                 "OPERATING SYSTEM": "ANDROID V5.0.2 LOLLIPOP",
+                 "PRICE": "Rs. 13,889.00",
+                 "COLOR": "BLABK",
+                 "STOCK": "4"
+                 },
+                 {
+                 "MODEL": "MOTO E 1 GEN",
+                 "OPERATING SYSTEM": "ANDROID V5.0.2 LOLLIPOP",
+                 "PRICE": "Rs. 6,999.00",
+                 "COLOR": "WHITE",
+                 "STOCK": "4"
+                 },
+                 {
+                 "MODEL": "MOTO E 2 GEN",
+                 "OPERATING SYSTEM": "ANDROID V5.0.2 LOLLIPOP",
+                 "PRICE": "Rs. 6,999.00",
+                 "COLOR": "BLACK",
+                 "STOCK": "4"
+                 }
+                 ],
+    "BLACKBERRY": [
+                 {
+                 "MODEL": "MOTO G 1 GEN",
+                 "OPERATING SYSTEM": "ANDROID V5.0.2 LOLLIPOP",
+                 "PRICE": "Rs. 13,889.00",
+                 "COLOR": "BLACK",
+                 "STOCK": "4"
+                 },
+                 {
+                 "MODEL": "MOTO G 2 GEN",
+                 "OPERATING SYSTEM": "ANDROID V5.0.2 LOLLIPOP",
+                 "PRICE": "Rs. 13,889.00",
+                 "COLOR": "BLABK",
+                 "STOCK": "4"
+                 },
+                 {
+                 "MODEL": "MOTO E 1 GEN",
+                 "OPERATING SYSTEM": "ANDROID V5.0.2 LOLLIPOP",
+                 "PRICE": "Rs. 6,999.00",
+                 "COLOR": "WHITE",
+                 "STOCK": "4"
+                 },
+                 {
+                 "MODEL": "MOTO E 2 GEN",
+                 "OPERATING SYSTEM": "ANDROID V5.0.2 LOLLIPOP",
+                 "PRICE": "Rs. 6,999.00",
+                 "COLOR": "BLACK",
+                 "STOCK": "4"
+                 }
+                 ]
+    
+}
